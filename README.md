@@ -1,3 +1,16 @@
-# password-strength-checker
-A simple password strength checker done with pyhton. This project evaluates your password security based on length, lowercase and uppercase letters, special characters and numbers
-beginner friendly pyhton project related to cybersecurity
+
+# 🔐 Password Strength Checker
+
+A Python-based tool that evaluates password security.
+
+## 🚀 Features
+- Checks password length
+- Detects uppercase and lowercase letters
+- Identifies numbers and special characters
+- Provides feedback on password strength
+
+## 🛠️ Technologies
+- Python
+
+## ▶️ How to Run
+python password_checker.py
